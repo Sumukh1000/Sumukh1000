@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sumukh1000
-- 👀 I’m interested in web developement
-- 🌱 I’m currently learning web developement 
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on small scale projects
 - 📫 Contact me on Discord 
 
